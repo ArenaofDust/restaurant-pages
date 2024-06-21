@@ -11,8 +11,7 @@ const loadHomeTab = () => {
         const sectionHeader = document.createElement("div");
         sectionHeader.classList.add("section-header");
         sectionHeader.textContent = title;
-        container.append(sectionHeader)
-;
+        container.append(sectionHeader);
     }
 
 }
