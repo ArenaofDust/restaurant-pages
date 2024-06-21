@@ -6,7 +6,7 @@ const loadHomeTab = () => {
     const createSection = (title, content) => {
         const container = document.createElement("div");
         container.classList.add("content-container");
-        contentDiv.appendI(container);
+        contentDiv.append(container);
 
         const sectionHeader = document.createElement("div");
         sectionHeader.classList.add("section-header");
@@ -17,7 +17,7 @@ const loadHomeTab = () => {
         sectionContent.classList.add("section-content");
         sectionContent.textContent = content;
         container.append(sectionContent);
-    }
+    };
 
     createSection(
         "Welcome to Dust Bowl:",
