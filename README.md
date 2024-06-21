@@ -1,1 +1,3 @@
-# restaurant-pages
+# Restaurant-Pages
+
+This is a restuarant website 
