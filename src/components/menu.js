@@ -53,14 +53,14 @@ const loadMenuTab = () => {
     createMenuItem("Salmon Dip", "Appetizers", "$10.00");
     createMenuItem("Nachos", "Appetizers", "$8.69");
     createMenuItem("Southwestern Egg Rolls", "Appetizers", "$9.50");
-    createMenuItem("Rib Special", "Specials", "18.49");
-    createMenuItem("Pork Special", "Specials", "22.49");
-    createMenuItem("Chicken Special", "Specials", "20.49");
-    createMenuItem("Two-Meat Special", "Specials", "19.49");
-    createMenuItem("Coffee", "Drinks", "6.50");
-    createMenuItem("Beer", "Drinks", "6.50");
-    createMenuItem("Soda Can", "Drinks", "3.50");
-    createMenuItem("Water", "Drinks", "2.50");
+    createMenuItem("Rib Special", "Specials", "$18.49");
+    createMenuItem("Pork Special", "Specials", "$22.49");
+    createMenuItem("Chicken Special", "Specials", "$20.49");
+    createMenuItem("Two-Meat Special", "Specials", "$19.49");
+    createMenuItem("Coffee", "Drinks", "$6.50");
+    createMenuItem("Beer", "Drinks", "$6.50");
+    createMenuItem("Soda Can", "Drinks", "$3.50");
+    createMenuItem("Water", "Drinks", "$2.50");
 
 
 };
