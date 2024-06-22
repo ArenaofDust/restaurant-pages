@@ -2,7 +2,7 @@
 
 This is a restuarant website that uses JavaScript, HTML, and CSS, along with Webpack to manage the project's assets and modules.
 
-# Project Structure
+## Project Structure
 
 .
 ├── dist
