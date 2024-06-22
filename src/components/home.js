@@ -5,7 +5,7 @@ const loadHomeTab = () => {
 
     const createSection = (title, content) => {
         const container = document.createElement("div");
-        container.classList.add("content-container");
+        container.classList.add("section-container");
         contentDiv.append(container);
 
         const sectionHeader = document.createElement("div");
